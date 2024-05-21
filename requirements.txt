@@ -5,3 +5,5 @@ google-generativeai
 python-dotenv
 langchain-community
 langchain_google_genai
+wandb
+
